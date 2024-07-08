@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ordonnancement_Graphe.iml" filepath="$PROJECT_DIR$/.idea/Ordonnancement_Graphe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Efrei/S5/Graphe/Projet_Ordonnancement/Projet_Ordonnancement.iml" filepath="$PROJECT_DIR$/../Efrei/S5/Graphe/Projet_Ordonnancement/Projet_Ordonnancement.iml" />
+    </modules>
+  </component>
+</project>
